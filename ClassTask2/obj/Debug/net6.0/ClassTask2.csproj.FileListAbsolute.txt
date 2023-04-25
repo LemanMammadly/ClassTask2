@@ -1,0 +1,15 @@
+/Users/imac/Projects/ClassTask2/ClassTask2/bin/Debug/net6.0/ClassTask2
+/Users/imac/Projects/ClassTask2/ClassTask2/bin/Debug/net6.0/ClassTask2.deps.json
+/Users/imac/Projects/ClassTask2/ClassTask2/bin/Debug/net6.0/ClassTask2.runtimeconfig.json
+/Users/imac/Projects/ClassTask2/ClassTask2/bin/Debug/net6.0/ClassTask2.dll
+/Users/imac/Projects/ClassTask2/ClassTask2/bin/Debug/net6.0/ref/ClassTask2.dll
+/Users/imac/Projects/ClassTask2/ClassTask2/bin/Debug/net6.0/ClassTask2.pdb
+/Users/imac/Projects/ClassTask2/ClassTask2/obj/Debug/net6.0/ClassTask2.csproj.AssemblyReference.cache
+/Users/imac/Projects/ClassTask2/ClassTask2/obj/Debug/net6.0/ClassTask2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/ClassTask2/ClassTask2/obj/Debug/net6.0/ClassTask2.AssemblyInfoInputs.cache
+/Users/imac/Projects/ClassTask2/ClassTask2/obj/Debug/net6.0/ClassTask2.AssemblyInfo.cs
+/Users/imac/Projects/ClassTask2/ClassTask2/obj/Debug/net6.0/ClassTask2.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/ClassTask2/ClassTask2/obj/Debug/net6.0/ClassTask2.dll
+/Users/imac/Projects/ClassTask2/ClassTask2/obj/Debug/net6.0/ref/ClassTask2.dll
+/Users/imac/Projects/ClassTask2/ClassTask2/obj/Debug/net6.0/ClassTask2.pdb
+/Users/imac/Projects/ClassTask2/ClassTask2/obj/Debug/net6.0/ClassTask2.genruntimeconfig.cache
